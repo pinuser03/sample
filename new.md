@@ -2,8 +2,8 @@
 
 Here is some regular text
 
-*bullet1
-*bullet2
+	* bullet1
+	* bullet2
 
 [Link to google](https://www.google.com)
 
